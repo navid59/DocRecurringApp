@@ -2,34 +2,29 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This **Recurring Payments API** , is a subscription managemnet include the periodic **payments** via NETOPIA Payments services.
+It's hellping to implement Recurring Payment system for your business.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **creating a account** in **[NETOPIA Payments](https://netopia-payments.com/register/)** platform.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **extend your existence account** to be configure for **Recurring payments** as well.
 
-## Generate a new site
+## Recurring Payments API URL
 
 Generate a new Docusaurus site using the **classic template**:
 
 ```shell
-npm init docusaurus@latest my-website classic
+https://recurring-api-fqvtst6pfa-ew.a.run.app
 ```
 
-## Start your site
+## Recurring Payments API Specification
 
-Run the development server:
+The API specification provides a broad understanding of how an API behaves.
 
 ```shell
-cd my-website
-
-npx docusaurus start
+https://recurring-api-fqvtst6pfa-ew.a.run.app/api/recurring.v2.standard.json
 ```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.

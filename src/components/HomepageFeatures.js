@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Recurring payment API was designed from the ground up to be easily
+        used to get your Subscription system on your website quickly.
       </>
     ),
   },
@@ -18,18 +18,16 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Recurring payment API lets you focus on your sales, and we&apos;ll manage your subscriptionst & the periodic payments of your subscribers.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by NETOPIA Payments',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Recurring Payment API, is new NETOPIA Payments service.
       </>
     ),
   },
